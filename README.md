@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MathiasAlejandro
-- 👀 I’m interested in Programming Python pro
-- 🌱 I’m currently learning Python Pro
-- 💞️ I’m looking to collaborate on Nose
+- 👀 I’m interested in Programming HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML CSS JAVASCRIPT
 - 📫 How to reach me Mathiasvillasmil583@gmail.com
-- 😄 Pronouns: Mathi
+- 😄 Pronouns: Mathias
 - ⚡ Fun fact: Programming
 
 <!---
